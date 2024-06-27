@@ -2,7 +2,7 @@
 
 -make user click on sources and journey as buttons, and redirect to new web browser
 <br>
--add a sources page, credits for youtube links, friend's websites I copied from, stackoverflow (lol maybe not. nothing I got from this website actually worked), and dev.io
+-add a sources page, credits for youtube links, friend's websites I copied from, stackoverflow (lol maybe not. nothing I got from this website actually worked), and dev.to
 <br>
 -add my journey page, with photos of friends, robotics competitions, enviormental science, and mr pizzo comp sci class. 
 <br>
