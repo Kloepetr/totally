@@ -1,5 +1,5 @@
 <h1>to do list</h1>
-
+<h1> thinking about starting over, nevermind on this website </h1>
 -make user click on sources and journey as buttons, and redirect to new web browser
 <br>
 -add a sources page, credits for youtube links, friend's websites I copied from, stackoverflow (lol maybe not. nothing I got from this website actually worked), and dev.to
